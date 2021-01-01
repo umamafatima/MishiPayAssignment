@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>8710103737261</key>
+	<dict>
+		<key>name</key>
+		<string>Philips Kerashine Advanced Straightner</string>
+		<key>image</key>
+		<string>philipsKerashineStraightner</string>
+		<key>price</key>
+		<string>2995.0</string>
+	</dict>
+	<key>5028197192723</key>
+	<dict>
+		<key>name</key>
+		<string>The Body Shop SHEA Nourishing Body Butter</string>
+		<key>image</key>
+		<string>bodyShopSheaButter</string>
+		<key>price</key>
+		<string>1195.0</string>
+	</dict>
+	<key>6085010092515</key>
+	<dict>
+		<key>name</key>
+		<string>ARMAF High Street Perfume Body Spray</string>
+		<key>image</key>
+		<string>armafHighStreetDeo</string>
+		<key>price</key>
+		<string>250.0</string>
+	</dict>
+	<key>5449000000996</key>
+	<dict>
+		<key>name</key>
+		<string>Coke</string>
+		<key>image</key>
+		<string>cokeCan</string>
+		<key>price</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
